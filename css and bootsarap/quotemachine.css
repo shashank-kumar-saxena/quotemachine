@@ -20,6 +20,18 @@ div .min-div
     background-color:white;
     border-radius:5px;
 }
+@media(max-width:732px)
+{
+    div .min-div
+    {
+        position: absolute;
+        width:auto;
+        height: auto;
+        padding:40px;
+        background-color:white;
+        border-radius:5px;
+    }
+}
 #quote h2
 {
     text-align: center;
