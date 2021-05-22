@@ -1,0 +1,165 @@
+body{
+    overflow-x:  hidden;
+}
+div .main
+{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;;
+}
+div .min-div
+{
+    position: absolute;
+    width: 40%;
+    height: auto;
+    padding:40px;
+    background-color:white;
+    border-radius:5px;
+}
+#quote h2
+{
+    text-align: center;
+}
+#quote-writer h6
+{
+    position: relative;
+    font-style:italic;
+    font-weight: 400;
+    right:25px;
+}
+#footer
+{
+    width:100%;
+    padding-top: 20px;
+}
+#icons i
+{
+   font-size:2.5em;
+}
+#Button
+{
+    border: none;
+    outline: none;
+    color:white;
+    width: 100%;
+    PADDING:5px;
+}
+
+div .color
+{
+    transition: 2s;
+    background-color:hsl(0, 71%, 66%);
+    color: hsl(0, 71%, 66%);
+}
+div button .color
+{
+    transition: 2s;
+    background-color:hsl(0, 71%, 66%);    
+}
+div .color2
+{
+    transition: 2s;
+    background-color:hsl(46, 72%, 60%);
+    color: hsl(46, 72%, 60%);
+}
+div button .color2
+{
+    transition: 2s;
+    background-color:hsl(46, 72%, 60%);
+}
+div .color3
+{
+    transition: 2s;
+    background-color:hsl(258, 100%, 50%);
+    color: hsl(258, 100%, 50%);
+}
+div button .color3
+{
+    transition: 2s;
+    background-color:hsl(258, 100%, 50%);   
+}
+div .color4
+{
+    transition: 2s;
+    background-color:hsl(108, 98%, 48%);
+    color: hsl(108, 98%, 48%);
+}
+div button .color4
+{
+    transition: 2s;
+    background-color:hsl(108, 98%, 48%);   
+}
+div .color5
+{
+    transition: 2s;
+    background-color:hsla(167, 82%, 55%, 0.863);
+    color: hsla(167, 82%, 55%, 0.863);
+}
+div button .color5
+{
+    transition: 2s;
+    background-color:hsla(167, 82%, 55%, 0.863);  
+}
+div .color6
+{
+    transition: 2s;
+    background-color:hsla(308, 93%, 49%, 0.863);
+    color: hsla(308, 93%, 49%, 0.863);
+}
+div button .color6
+{
+    transition: 2s;
+    background-color:hsla(308, 93%, 49%, 0.863); 
+}
+div .color7
+{
+    transition: 2s;
+    background-color:hsla(66, 70%, 26%, 0.863);
+    color: hsla(66, 70%, 26%, 0.863);
+}
+div button .color7
+{
+    transition: 2s;
+    background-color:hsla(66, 70%, 26%, 0.863); 
+}
+div .color8
+{
+    transition: 2s;
+    background-color:hsl(46, 100%, 48%);
+    color: hsl(46, 100%, 48%);
+}
+div button .color8
+{
+    transition: 2s;
+    background-color:hsl(46, 100%, 48%);
+}
+div .color9
+{
+    transition: 2s;
+    background-color:hsl(0, 100%, 50%);
+    color: hsl(0, 100%, 50%);
+}
+div button .color9
+{
+    transition: 2s;
+    background-color:hsl(0, 100%, 50%);  
+}
+div .color10
+{
+    transition: 2s;
+    background-color:hsl(268, 100%, 30%);
+    color: hsl(268, 100%, 30%);
+}
+div button .color10
+{
+    transition: 2s;
+    background-color:hsl(268, 100%, 30%);
+}
+
+
+
+
