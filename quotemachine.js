@@ -1,10 +1,11 @@
-var ran=Math.floor(Math.random()*10+1);
+
 var quote=document.getElementById('quote');
 var quoteAuthor=document.getElementById('quote-writer');
 function click()
 {
     if(ran==1)
     {
+        var ran=Math.floor(Math.random()*10+1);
         el.setAttribute("class","row main color");
         button.setAttribute("class","color");
         quote.innerHTML="<h2>"+"I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed."+"</h2>";
