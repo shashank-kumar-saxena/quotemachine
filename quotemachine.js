@@ -85,7 +85,6 @@ function tumblr()
 {
     var msg=quote.textContent+quoteAuthor.textContent;
     var link="https://www.tumblr.com/widgets/share/tool?posttype=quote&tags=quotes,freecodecamp&caption=Gloria%20Steinem&content="+msg+"&canonicalUrl=https%3A%2F%2Fwww.tumblr.com%2Fbuttons&shareSource=tumblr_share_button";
-    console.log(link);
     window.open(link,"_blink");
 }
 var button=document.getElementById('Button');
