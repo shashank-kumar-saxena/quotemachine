@@ -1,10 +1,8 @@
-
 var quote=document.getElementById('quote');
 var quoteAuthor=document.getElementById('quote-writer');
 function click()
 {
-    
-        var ran=Math.floor(Math.random()*10+1);
+    var ran=Math.floor(Math.random()*10+1);
     if(ran==1)
     {
         el.setAttribute("class","row main color");
